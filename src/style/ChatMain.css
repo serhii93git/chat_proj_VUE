@@ -198,4 +198,9 @@
   background: #555;
 }
 
-
+.no-messages {
+  text-align: center;
+  color: #888;
+  padding: 20px;
+  font-style: italic;
+}
